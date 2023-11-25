@@ -1,0 +1,6 @@
+{
+  "name": "nats-test",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["customer/**", "driver/**", "order/**", "gateway/**", "auth/**"]
+}
